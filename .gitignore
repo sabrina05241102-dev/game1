@@ -1,0 +1,15 @@
+
+.godot/
+*.tmp
+
+.godot-tool/
+.godot-data/
+.godot-local/
+*.tpz
+godot-export.log
+
+/export_templates/
+/feature_profiles/
+/script_templates/
+/text_editor_themes/
+
